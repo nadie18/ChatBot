@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f5d8146-29db-4d6d-af59-c865d89906fe/resourceGroups/Whatsapp-python-rg/providers/Microsoft.Web/sites/whatsapp-webappi",
+    "appService.deploySubpath": ".",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
